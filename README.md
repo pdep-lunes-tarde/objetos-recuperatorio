@@ -1,8 +1,4 @@
-# Parcial
-
-## Enunciado
-
-https://docs.google.com/document/d/e/2PACX-1vSTYC9AzXArfjK44nkqbW7PuB3735Igm0tSX5hA17DNYzhm2jTUw8piSDR3NscWcN7qSYGr5ugSNooE/pub
+# Recuperatorio
 
 ## Estudiante
 
@@ -12,7 +8,7 @@ https://docs.google.com/document/d/e/2PACX-1vSTYC9AzXArfjK44nkqbW7PuB3735Igm0tSX
 
 ## Tiempo del parcial
 
-Entre 14:15 y 17:30.
+Entre 9:00 y 12:15.
 
 ## Que hacer cuando terminan el parcial
 
