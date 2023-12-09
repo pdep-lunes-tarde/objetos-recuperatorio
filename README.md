@@ -1,8 +1,5 @@
 # Recuperatorio
 
-Enunciado:
-https://docs.google.com/document/d/e/2PACX-1vQ34E_zPpm8-PQ96QBIoUx-INJ1lgG6kTGFuuRZhFWrNpvNxv9sfBuSEGtoUml0bHhtnmgAeJ0G0hhe/pub
-
 ## Estudiante
 
 **Nombre y apellido:** -completar acá-
